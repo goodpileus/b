@@ -1,22 +1,6 @@
 ---
-title: alalsdflsajdf
+title: debugger
 layout: post
 ---
 
-ffffffff
-
-sadf
-sad
-f
-a
-sdf
-a
-sdf
-
-asdf
-
-asd
-f
-as
-f
-asdfasdf
+![image](/images/2018/12/debugger2.png)

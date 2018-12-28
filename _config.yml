@@ -2,11 +2,10 @@ name: b
 url: https://aidanquinlan.net/b/
 description:
 
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 paginate: 10
 
 markdown: kramdown
-remote_theme: solar
 
 plugins: [jekyll-paginate, jekyll-watch, jekyll-admin, github-pages]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
