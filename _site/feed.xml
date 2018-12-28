@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Dec 2018 23:32:52 -0700</pubDate>
-    <lastBuildDate>Thu, 27 Dec 2018 23:32:52 -0700</lastBuildDate>
+    <link>https://aidanquinlan.net/b//</link>
+    <atom:link href="https://aidanquinlan.net/b//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 28 Dec 2018 00:10:31 -0700</pubDate>
+    <lastBuildDate>Fri, 28 Dec 2018 00:10:31 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/images/2018/12/86420main_ED03-0180-03.jpg&quot; alt=&quot;grief&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Dec 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/ffff/</link>
-        <guid isPermaLink="true">http://localhost:4000/ffff/</guid>
+        <link>https://aidanquinlan.net/b//ffff/</link>
+        <guid isPermaLink="true">https://aidanquinlan.net/b//ffff/</guid>
         
         
       </item>
@@ -25,8 +25,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/images/2018/12/FUJI0515.gif&quot; alt=&quot;civ&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Dec 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/civciv/</link>
-        <guid isPermaLink="true">http://localhost:4000/civciv/</guid>
+        <link>https://aidanquinlan.net/b//civciv/</link>
+        <guid isPermaLink="true">https://aidanquinlan.net/b//civciv/</guid>
         
         
       </item>
@@ -36,8 +36,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/images/2018/12/debugger2.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Dec 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/alalsdflsajdf/</link>
-        <guid isPermaLink="true">http://localhost:4000/alalsdflsajdf/</guid>
+        <link>https://aidanquinlan.net/b//alalsdflsajdf/</link>
+        <guid isPermaLink="true">https://aidanquinlan.net/b//alalsdflsajdf/</guid>
         
         
       </item>
