@@ -6,7 +6,7 @@ permalink: /:year/:month/:day/:title/
 paginate: 10
 
 markdown: kramdown
-remote-theme: solar
+remote_theme: solar
 
 plugins: [jekyll-paginate, jekyll-watch, jekyll-admin, github-pages]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
