@@ -7,5 +7,5 @@ paginate: 10
 
 markdown: kramdown
 
-plugins: [jekyll-paginate, jekyll-watch, jekyll-admin, github-pages]
+plugins: [jekyll-paginate, github-pages]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
