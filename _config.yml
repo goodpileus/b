@@ -1,11 +1,24 @@
+---
+title: B
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 name: b
 url: https://aidanquinlan.net/b/
-description:
-
-permalink: /:title/
+description: 
+permalink: "/:title/"
 paginate: 10
-
 markdown: kramdown
-
-plugins: [jekyll-paginate, github-pages]
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+plugins:
+- jekyll-paginate
+- github-pages
+exclude:
+- README.md
+- Gemfile.lock
+- Gemfile
+- Rakefile
