@@ -10,7 +10,7 @@ collections:
     output: true
 name: b
 url: https://aidanquinlan.net/b/
-description: 
+description: blog
 permalink: "/:title/"
 paginate: 10
 markdown: kramdown
