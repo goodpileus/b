@@ -1,16 +1,7 @@
 ---
-title: B
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 name: b
 url: https://aidanquinlan.net/b/
-description: blog
+description: 
 permalink: "/:title/"
 paginate: 10
 markdown: kramdown
@@ -22,3 +13,4 @@ exclude:
 - Gemfile.lock
 - Gemfile
 - Rakefile
+timezone: Etc/UTC
