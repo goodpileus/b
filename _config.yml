@@ -1,5 +1,6 @@
 name: b
 url: https://aidanquinlan.net/b
+baseurl: /b
 description:
 
 permalink: /:title/
