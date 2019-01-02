@@ -29,7 +29,7 @@ title: fool's rest
 
 		{% if paginator.previous_page %}
 			{% if paginator.page == 2 %}
-				<a class="prev left" href="/">&larr; </a>
+				<a class="prev left" href="{{site.baseurl}}/">&larr; </a>
 			{% else %}
 				<a class="prev left" href="{{site.baseurl}}/page{{paginator.previous_page}}/">&larr; Newer</a>
 			{% endif %}
