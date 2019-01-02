@@ -1,6 +1,7 @@
 body {
 	margin:1rem;
 	background:black;
+	color:rgb(178,198,155);
 }
 
 img {
@@ -9,7 +10,11 @@ img {
 }
 
 p {
-	color:rgb(178,198,155);
+}
+
+a {
+	color: rgb(241,238,214);
+	text-decoration: none;
 }
 
 .post {
