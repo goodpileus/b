@@ -18,8 +18,3 @@ fields:
     - post
   label: layout
   name: layout
-pages:
-- _posts/zzzzzz.md
-- _posts/grand.md
-- _posts/ggggg.md
-- _posts/viim.md
