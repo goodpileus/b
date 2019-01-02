@@ -6,3 +6,15 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
+- type: select
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - default
+    - post
+  label: layout
+  name: layout
