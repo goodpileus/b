@@ -1,7 +1,4 @@
 language: ruby
-branches:
-  only:
-    - gh-pages
 
 deploy:
   provider: pages
@@ -10,3 +7,8 @@ deploy:
   keep-history: true
   on:
     branch: master
+
+branches:
+  only:
+    - gh-pages
+    - /.*/
