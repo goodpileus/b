@@ -25,3 +25,7 @@ p {
 	align-self: center;
 	max-width:80%;
 }
+
+.post:first-child {
+	margin-top: 4rem;
+}
