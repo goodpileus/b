@@ -1,6 +1,6 @@
 ---
 name: b
-url: https://aidanquinlan.net/b/
+url: https://aidanquinlan.net/b
 description: 
 permalink: "/:title/"
 paginate: 10
