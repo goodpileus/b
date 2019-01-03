@@ -18,5 +18,3 @@ fields:
     - post
   label: layout
   name: layout
-pages:
-- _posts/debugger.md
