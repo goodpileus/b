@@ -22,5 +22,8 @@ fields:
 - type: datetime
   name: date
   label: date
+- type: tag_list
+  name: tags
+  label: tags
 pages:
 - _posts/tree.md
