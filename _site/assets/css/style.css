@@ -1,6 +1,7 @@
 body {
 	margin:1rem;
-	background:black;
+	background:rgb(5,5,5);
+	color:rgb(178,198,155);
 }
 
 img {
@@ -9,11 +10,24 @@ img {
 }
 
 p {
-	color:rgb(178,198,155);
+}
+
+a {
+	color: rgb(241,238,214);
+	text-decoration: none;
+}
+
+#head {
+	max-width:80%;
+	/* background:red; */
+	margin:0 auto;
+	text-align: center;
 }
 
 .post {
 	display:flex;
+	margin:0 auto;
+	max-width:80%;
 	flex-direction: column;
 }
 
@@ -23,5 +37,8 @@ p {
 	display: block;
 	margin-bottom: 12rem;
 	align-self: center;
-	max-width:80%;
+}
+
+.post:first-child {
+	margin-top: 4rem;
 }
