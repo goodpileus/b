@@ -1,3 +1,8 @@
+//------ infinite scroll
+var postWrapperId = 'post-wrapper';
+var paginatePath = '{{site.baseurl}}/page/'
+new InfiniteScroll(paginatePath, postWrapperId);
+
 //------ about
 var about = document.getElementById('about-wrap');
 var nameText = document.getElementById('nameText');
