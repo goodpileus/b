@@ -29,4 +29,5 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/brush-1.md
 - _posts/needles.md
