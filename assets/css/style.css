@@ -10,7 +10,7 @@
 }
 
 body {
-	margin:1rem;
+	margin:0 1rem;
 	background: var(--bg);
 	color: var(--txt);
   font-family: 'libre franklin' sans-serif;
@@ -48,20 +48,19 @@ ol, ul {
 	max-width: 90%;
 }
 
-#head {
-}
-
 .post {
 	display:flex;
-	flex-direction: column;
+  height:100vh;
+  /* background: red; */
+  justify-content: center;
 }
 
-.post-content {\
-	display: block;
-	margin-bottom: 6rem;
+.post-content {
+  align-self: center;
 }
 
-.post:first-child {
+.post-content p {
+  max-width: 900px;
 }
 
 .date {
