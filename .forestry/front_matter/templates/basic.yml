@@ -29,6 +29,4 @@ fields:
   name: tags
   label: tags
 pages:
-- _posts/brush-1.md
 - _posts/2019-01-18-bird.md
-- _posts/needles.md
