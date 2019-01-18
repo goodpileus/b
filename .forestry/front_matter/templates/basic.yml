@@ -30,4 +30,5 @@ fields:
   label: tags
 pages:
 - _posts/brush-1.md
+- _posts/bird.md
 - _posts/needles.md
