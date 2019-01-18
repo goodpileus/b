@@ -18,7 +18,7 @@ fields:
     - post
   label: layout
   name: layout
-  default: default
+  default: post
 - type: datetime
   name: date
   label: date
