@@ -51,8 +51,13 @@ ol, ul {
 .post {
 	display:flex;
   height:100vh;
+  margin-bottom: 4rem;
   /* background: red; */
   justify-content: center;
+}
+
+.post:last-child {
+  margin-bottom: 1rem;
 }
 
 .post-content {
@@ -63,7 +68,7 @@ ol, ul {
   max-width: 900px;
 }
 
-.date {
+.phrase {
 	bottom:0;
 	left:50%;
 	transform:translateX(-50%);
@@ -77,13 +82,9 @@ ol, ul {
 	pointer-events: none;
 	transition:opacity .1s ease-in-out;
   line-height: 1.5rem;
-
 }
 
-.post:hover {
-}
-
-.post-content:hover .date {
+.post-content:hover .phrase {
 	opacity:1;
 }
 
