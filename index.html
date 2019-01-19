@@ -10,7 +10,8 @@ title: log
 			<article class="post">
 	      <div class="post-content">
 	          {{ post.content }}
-            <span class="date">{{ post.date | date: "%m.%d.%Y"}}</span>
+            <!-- <span class="phrase">{{ post.date | date: "%m.%d.%Y"}}</span> -->
+            <span class="phrase">{{ post.phrase }}</span>
 	      </div>
 			</article>
     {%- endfor -%}
