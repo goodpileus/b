@@ -7,7 +7,7 @@ fields:
   name: title
   label: title
   config:
-    required: true
+    required: false
 - type: select
   config:
     source:
@@ -19,12 +19,19 @@ fields:
   label: layout
   name: layout
   default: post
+- type: text
+  name: phrase
+  label: phrase
+  config:
+    required: true
+  default: "..."
 - type: datetime
   name: date
   label: date
   config:
     date_format: mm.dd.yy
     required: true
+  default: 2019-01-19 05:00:00 +0000
 - type: tag_list
   name: tags
   label: tags
