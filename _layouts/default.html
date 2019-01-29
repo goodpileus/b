@@ -60,6 +60,12 @@
   <script src="https://cdn.rawgit.com/J911/jekyll-infinite-scroll/master/lib/InfiniteScroll.js"></script>
   <script src="{{site.baseurl}}/assets/js/smooth-scroll.js"></script>
   <script src="{{site.baseurl}}/assets/js/functions.js"></script>
+  <script>
+  //------ infinite scroll
+  var postWrapperId = 'post-wrapper';
+  var paginatePath = '{{site.baseurl}}/page/'
+  new InfiniteScroll(paginatePath, postWrapperId);
+  </script>
 
 
 </body>
