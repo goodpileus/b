@@ -7,5 +7,5 @@ tags:
 - web
 
 ---
-i've made a new repository for my web sketches/projects for the spring semester.  
-[https://aidanquinlan.net/s19/portal/](https://aidanquinlan.net/s19/portal/ "https://aidanquinlan.net/s19/portal/")
+made a hub site to host all my web sketches/projects for the duration of my MFA as well as a new repository for the spring semester.  
+[https://aidanquinlan.net/hub/index.html](https://aidanquinlan.net/hub/index.html "https://aidanquinlan.net/hub/index.html")
