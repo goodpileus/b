@@ -36,11 +36,11 @@ fields:
   name: tags
   label: tags
 pages:
-- _posts/2019-01-18-bird.md
-- _posts/2019-01-17-brush-1.md
-- _posts/mush-tile.md
-- _posts/2019-01-16-needles.md
-- _posts/2019-01-03-tree.md
-- _posts/2019-02-11-fools.md
 - _posts/countryside-1.md
+- _posts/2019-02-11-fools.md
+- _posts/mush-tile.md
 - _posts/2019-01-19-new-repository.md
+- _posts/2019-01-03-tree.md
+- _posts/2019-01-16-needles.md
+- _posts/2019-01-17-brush-1.md
+- _posts/2019-01-18-bird.md
