@@ -36,6 +36,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/map-drawing.md
 - _posts/countryside-1.md
 - _posts/2019-02-11-fools.md
 - _posts/mush-tile.md
