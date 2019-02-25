@@ -36,6 +36,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/carving-2.md
 - _posts/2019-02-24-sunday-2.md
 - _posts/map-drawing.md
 - _posts/countryside-1.md
